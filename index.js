@@ -10,7 +10,7 @@ function clickCounter() {
     }
     document.getElementById("button").innerHTML = "Total 'Your Mads' : " + localStorage.clickcount;
 
-    var audio = new Audio('Shoobs/Your mad.mp3');
+    var audio = new Audio('https://raw.githubusercontent.com/theofficialBF/Shoobs/master/Your%20Mad.mp3');
     audio.play();
 
 
