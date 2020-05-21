@@ -1,0 +1,42 @@
+
+body {
+  background-color: #f5a7a7;
+  text-align: center;
+
+
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 4rem;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.5rem;
+}
+
+.button {
+  background-color: #00a1ab;
+  border: none;
+  border-radius: 50%;
+  color: black;
+  display: inline-block;
+  font-size: 3rem;
+  height: 300px;
+  margin: 4px 2px;
+  text-align: center;
+  text-decoration: none;
+  width: 300px;
+}
+
+.button:hover {
+  background-color: #63b7af;
+  border: none;
+  color: #e4e4e4;
+}
+
+.button:focus {
+  border: none;
+}
