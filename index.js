@@ -10,7 +10,7 @@ function clickCounter() {
     }
     document.getElementById("button").innerHTML = "Total 'Your Mads' : " + localStorage.clickcount;
 
-    var audio = new Audio('/Your mad.mp3');
+    var audio = new Audio('Shoobs/Your mad.mp3');
     audio.play();
 
 
